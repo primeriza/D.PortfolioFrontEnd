@@ -1,4 +1,11 @@
-.acercade{
+#acercade{
     background-color: aquamarine;
-    height: 200px;
+    height: 450px;
 }
+#foto-perfil{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    position: relative;
+}
+

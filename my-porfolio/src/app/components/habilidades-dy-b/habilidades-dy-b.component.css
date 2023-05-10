@@ -1,4 +1,8 @@
 .habilidades{
-    background-color: gold;
+    background-color: lavender;
     height: 200px;
+}
+.section-title{
+    position: relative;
+    text-align: center;
 }

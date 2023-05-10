@@ -1,4 +1,16 @@
-.educacion {
-    background-color: brown;
-    height: 200px;
+#educacion {
+    background-color: lavender;
+    height: 450px;
 }
+.p-2 {
+    background-color: aliceblue;
+    margin-top: auto;
+    margin-bottom: auto;
+    }
+
+.logos{
+    height: 100px;
+    width: 100px;
+}
+
+
