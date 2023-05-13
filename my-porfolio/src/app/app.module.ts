@@ -11,6 +11,8 @@ import { HabilidadesDyBComponent } from './components/habilidades-dy-b/habilidad
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { AppRoutingModule } from './app-routing.module';
 import { NuevaNavBarComponent } from './components/nueva-nav-bar/nueva-nav-bar.component';
+import { PorfolioService } from './servicios/porfolio.service';
+import {HttpClientModule} from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -22,13 +24,16 @@ import { NuevaNavBarComponent } from './components/nueva-nav-bar/nueva-nav-bar.c
     ExperienciaComponent,
     HabilidadesDyBComponent,
     ProyectosComponent,
-    NuevaNavBarComponent
+    NuevaNavBarComponent,
+    
+    
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [PorfolioService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

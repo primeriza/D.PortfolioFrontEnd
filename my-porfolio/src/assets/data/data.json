@@ -1,0 +1,54 @@
+
+{
+    "name": "María Florencia Ramírez",
+    "image": "http://localhost:4200/assets/img/AvatarMaker.jpg",
+    "position": "Full Stack Web Developer Jr.",
+    "about": "Estudiante avanzada de odontología que busca ampliar sus conocimientos en el mundo del software para poder integrarlos en el futuro.",
+    "education": [
+      {
+        "name": "Argentina Programa",
+        "institution": "Universidad de Buenos Aires",
+        "image": "http://localhost:4200/assets/img/argPrograma.jpg",
+        "description": "Full Stack Web Developer Jr."
+      },
+      {
+        "name": "Odontología",
+        "institution": "Universidad Nacional de Rosario",
+        "image": "http://localhost:4200/assets/img/UNR.jpg",
+        "description": "Cursando actualmente, realizado hasta 4to año inclusive"
+      },
+      {
+        "name": "Escuela Secundaria",
+        "institution": "Escuela Secundaria Santa María Goretti",
+        "image": "http://localhost:4200/assets/img/goretti.jpg",
+        "description": "Modalidad: Economía y Gestión de las Organizaciones. Finalizada año 2010"
+      }
+    ],
+    "experience": [
+      {
+        "name": "Maquilladora Social",
+        "institution": "",
+        "image": "http://localhost:4200/assets/img/maquillaje.jpg",
+        "description": "Trabajo actual"
+      },
+      {
+        "name": "Asistente dental 2019-2021",
+        "institution": "",
+        "image": "http://localhost:4200/assets/img/odontologia.jpg",
+        "description": "Asistente en cirugías, recepción de pacientes, limpieza de instrumental"
+      },
+      {
+        "name": "Secretaria en consultorio odontológico 2016-2017",
+        "institution": "",
+        "image": "http://localhost:4200/assets/img/secretaria.jpgcd ",
+        "description": "Recepción de pacientes, confección de fichas, manejo de agenda"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Realización de Portfolio Web para proyecto final #YoProgramo",
+        "description": "Realizado durante los meses Abril/Mayo 2023",
+        "url": "linkalproyecto.com"
+      }
+    ]
+  }
