@@ -1,46 +1,46 @@
 
 {
     "name": "María Florencia Ramírez",
-    "image": "http://localhost:4200/assets/img/AvatarMaker.jpg",
+    "image": "https://thumbs.dreamstime.com/z/icono-redondo-del-avatar-retrato-de-la-mujer-dise%C3%B1o-gr%C3%A1fico-paisaje-cola-caballo-personaje-dibujos-animados-ejemplo-rural-al-144501041.jpg",
     "position": "Full Stack Web Developer Jr.",
     "about": "Estudiante avanzada de odontología que busca ampliar sus conocimientos en el mundo del software para poder integrarlos en el futuro.",
     "education": [
       {
         "name": "Argentina Programa",
         "institution": "Universidad de Buenos Aires",
-        "image": "http://localhost:4200/assets/img/argPrograma.jpg",
-        "description": "Full Stack Web Developer Jr."
+        "APimage": "https://www.apnoticias.com.ar/imagenes/noticias/argentinaprograma4.0c.jpg",
+        "description": "Argentina Programa. Se Programar finalizado en 2022 y Yo Programo finalizado en 2023."
       },
       {
         "name": "Odontología",
         "institution": "Universidad Nacional de Rosario",
-        "image": "http://localhost:4200/assets/img/UNR.jpg",
+        "image": "https://fodontounr.info/sites/default/files/logofor_0_0_0_0_0_0.jpg",
         "description": "Cursando actualmente, realizado hasta 4to año inclusive"
       },
       {
         "name": "Escuela Secundaria",
         "institution": "Escuela Secundaria Santa María Goretti",
-        "image": "http://localhost:4200/assets/img/goretti.jpg",
+        "image": "https://campus.smgoretti8097.com/pluginfile.php/1/theme_moove/logo/1679355492/cropped-escudo_nuevo2.png",
         "description": "Modalidad: Economía y Gestión de las Organizaciones. Finalizada año 2010"
       }
     ],
     "experience": [
       {
         "name": "Maquilladora Social",
-        "institution": "",
-        "image": "http://localhost:4200/assets/img/maquillaje.jpg",
+        "institution": "Instituto ACP.",
+        "image": "https://img.freepik.com/foto-gratis/conjunto-coleccion-productos-belleza-ia-generativa-colores-vibrantes_188544-9681.jpg?w=740&t=st=1684032453~exp=1684033053~hmac=d3f3e818893be9d1b61baaff773469bf3a1f871daffa026ec2cab144285757e5 ",
         "description": "Trabajo actual"
       },
       {
         "name": "Asistente dental 2019-2021",
-        "institution": "",
-        "image": "http://localhost:4200/assets/img/odontologia.jpg",
+        "institution": "Odontología Integral",
+        "image": "https://img.freepik.com/fotos-premium/asistente-dental-azul-sosteniendo-bandeja-herramientas_13339-49803.jpg?w=360 ",
         "description": "Asistente en cirugías, recepción de pacientes, limpieza de instrumental"
       },
       {
         "name": "Secretaria en consultorio odontológico 2016-2017",
-        "institution": "",
-        "image": "http://localhost:4200/assets/img/secretaria.jpgcd ",
+        "institution": "Odontologia Integral",
+        "image": "https://img.freepik.com/vector-gratis/atencion-al-cliente-plana-organica_23-2148881015.jpg?w=740&t=st=1684032585~exp=1684033185~hmac=48cc9651526a0870fe42920aca6a8d7b004e66ab3883e4f88391c7912af0e026 ",
         "description": "Recepción de pacientes, confección de fichas, manejo de agenda"
       }
     ],
